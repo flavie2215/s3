@@ -11,5 +11,6 @@ variable "common_tags" {
     "AssetAreaName" = "ADL"
     "ControlledBy"  = "Terraform"
     "cloudProvider" = "aws"
+   
   }
 }
